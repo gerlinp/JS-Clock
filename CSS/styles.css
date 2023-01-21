@@ -1,0 +1,19 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
+
+body {
+ background-color: #3B70AF;
+ color: black;    
+ font-family: 'Alfa Slab One', cursive;
+ text-align: center;
+ font-size: 60px;
+}
+
+h1 {
+
+}
+#clock {
+    font-size: 100px;
+    padding: 0px
+}
